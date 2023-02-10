@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="title">
+        <item name="android:textSize">28sp</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+    <style name="sub_title" parent="title">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#575757</item>
+    </style>
+    <style name="Edit_text_1">
+        <item name="android:maxLength">32</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="button_style" parent="Widget.MaterialComponents.Button">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">16sp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+</resources>
