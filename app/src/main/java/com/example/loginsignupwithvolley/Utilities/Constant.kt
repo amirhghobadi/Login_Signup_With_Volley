@@ -3,7 +3,7 @@ package com.example.loginsignupwithvolley.Utilities
 import android.content.SharedPreferences
 import android.view.View
 
-const val BASE_URL = "https://bestapplications.ir/login_signup/"
+const val BASE_URL = "you directory for save php files"
 const val SHARED_PREFERENCES = "volley"
 const val KEY_USERNAME = "username"
 const val KEY_EMAIL = "email"
