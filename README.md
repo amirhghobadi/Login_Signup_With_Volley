@@ -10,3 +10,7 @@
 
 # Change Password
 ![](https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/new_password.gif)
+
+#Check Email in Signup
+![](https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/check_email_signup.gif)
+
