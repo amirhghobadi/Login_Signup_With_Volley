@@ -18,8 +18,13 @@
 ![](https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/check_email_forgot_password.gif)
 
 # Add dependencies to build.gradle
-implementation 'com.github.aabhasr1:OtpView:v1.1.2'
-implementation 'com.android.volley:volley:1.2.1'
+```java
+dependencies {
+        implementation 'com.github.aabhasr1:OtpView:v1.1.2'
+        implementation 'com.android.volley:volley:1.2.1'
+}
+```
+
 
 
 
