@@ -51,7 +51,7 @@
  <div class="container">
   <img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/check_email_forgot_password.gif" alt="Snow" style="width:100%;">
   <div class="bottom-left">Bottom Left</div>
-  <div class="top-left">Top Left</div>
+  <div class="top-left" position="absolute" top="8px" right="16px">Top Left</div>
   <div class="top-right">Top Right</div>
   <div class="bottom-right">Bottom Right</div>
   <div class="centered">Centered</div>
