@@ -16,7 +16,7 @@
 
 # Check Email for Change Password
 ![](https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/check_email_forgot_password.gif)
-Step 1. Add the JitPack repository to your build file. Add it in your root build.gradle at the end of repositories:
+# Step 1. Add the JitPack repository to your build file. Add it in your root build.gradle at the end of repositories:
 
 ```java
 allprojects {
