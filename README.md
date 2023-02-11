@@ -9,6 +9,16 @@
 <img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/check_email_forgot_password.gif" width="240" height="530" /> &nbsp;&nbsp;
 </p>
 
+ # /////////
+ <div class="container">
+  <img src="img_snow_wide.jpg" alt="Snow" style="width:100%;">
+  <div class="bottom-left">Bottom Left</div>
+  <div class="top-left">Top Left</div>
+  <div class="top-right">Top Right</div>
+  <div class="bottom-right">Bottom Right</div>
+  <div class="centered">Centered</div>
+</div>
+
 # Login_Signup_With_Volley
 # Signup
 ![](https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/signup.gif)
