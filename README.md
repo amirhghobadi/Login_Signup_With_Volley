@@ -1,5 +1,5 @@
 <h1 align="center">»Login Signup With Volley</h1>
-<p align="center">
+<p align="left">
 <img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/signup.gif" width="240" height="530" /> &nbsp;&nbsp;
 <img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/login.gif" width="240" height="530" /> &nbsp;&nbsp;
 <br><br>
