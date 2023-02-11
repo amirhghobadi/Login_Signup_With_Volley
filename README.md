@@ -1,12 +1,12 @@
 <h1 align="center">»Login Signup With Volley</h1>
 <p align="center">
-<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/signup.gif" width="270" height="700" /> &nbsp;&nbsp;
-<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/login.gif" width="270" height="700" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/signup.gif" width="270" height="600" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/login.gif" width="270" height="600" /> &nbsp;&nbsp;
 <br><br>
-<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/remember_me.gif" width="270" height="700" /> &nbsp;&nbsp;
-<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/new_password.gif" width="270" height="700" /> &nbsp;&nbsp;
-<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/check_email_signup.gif" width="270" height="700" /> &nbsp;&nbsp;
-<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/check_email_forgot_password.gif" width="270" height="700" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/remember_me.gif" width="270" height="600" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/new_password.gif" width="270" height="600" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/check_email_signup.gif" width="270" height="600" /> &nbsp;&nbsp;
+<img src="https://github.com/amirhghobadi/Login_Signup_With_Volley/blob/master/app/src/main/java/com/example/loginsignupwithvolley/Utilities/check_email_forgot_password.gif" width="270" height="600" /> &nbsp;&nbsp;
 </p>
 
 # Login_Signup_With_Volley
