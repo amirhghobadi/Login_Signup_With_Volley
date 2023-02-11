@@ -14,8 +14,7 @@
 #### Login
 #### Remember me
 #### Change Password
-#### Check Email in Signup
-#### Check Email for Change Password
+#### Check Email Exists
 
 ## Installation in your Project
 
