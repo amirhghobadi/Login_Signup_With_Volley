@@ -32,6 +32,9 @@ dependencies {
         implementation 'com.android.volley:volley:1.2.1'
 }
 ```
+## Author
+
+Maintained by  [amir hossein ghobadi](https://github.com/amirhghobadi)
 
 
 
